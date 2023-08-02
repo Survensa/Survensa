@@ -28,7 +28,8 @@
 </p>
 <h3 align="left">Github stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham&include_all_commits=true&count_private=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true"><br>
+<img src="https://github-contributor-stats.vercel.app/api?username=survensa&theme=gotham&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true">
 </p>
