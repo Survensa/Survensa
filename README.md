@@ -28,7 +28,7 @@
 </p>
 <h3 align="left">Github stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham&include_all_commits=true&count_private=true" style="display:inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham&include_all_commits=true&count_private=true" style="display:inline"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham&include_all_commits=true&count_private=true" width="45%" style="display:inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham&include_all_commits=true&count_private=true" width="50%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>
 <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/Software-Test-Management.gif">
