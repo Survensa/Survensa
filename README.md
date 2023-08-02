@@ -17,3 +17,7 @@
   </picture>
 </div>
 <br>
+<h1>📊 GitHub Stats: </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham">
