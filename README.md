@@ -2,17 +2,16 @@
 <br>
 <div align="center">
   <picture>
-    <img width="20%" src="https://github.com/Survensa/Survensa/blob/main/src/plugs/kMCMR25Vh.gif">
+    <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif"height="250" width="250">
   </picture>
 </div>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiiiiiiiii;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"><br>
-    <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif"height="250" width="250">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiiiiiiiii;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"><br>  
 </p>
 <p align="center">
     <h1 align="center">I'm Suraj Seenivasan</h1>
 </p>
-<h3 align="center">A passionate Software Quality Assurance Engineer from <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3><br>
 <h3 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/online-education-7540.svg"width="30" height="30"/> Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
@@ -32,4 +31,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>
 <br>
-<img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/Software-Test-Management.gif">
+<img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/kMCMR25Vh.gif">
