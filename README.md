@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <picture>
-    <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif"height="250" width="250">
+    <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/github.gif"height="225" width="250">
   </picture>
 </div>
 <p align="center">
