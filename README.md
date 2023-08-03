@@ -24,7 +24,7 @@
 <a href="https://twitter.com/seenivasansuraj" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/twitter-x-logo-black-square-rounded-20852.svg" alt="seenivasansuraj" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/suraj-seenivasan-613212191" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/linkedin-logo-2430.svg" alt="suraj-seenivasan-613212191" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/surajseenivasan" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/facebook-logo-2428.svg" alt="surajseenivasan" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/suraj_seenivasan" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/instagram-logo-8869.svg" alt="suraj_seenivasan" height="30" width="40" /></a>
+<a href="https://instagram.com/suraj_seenivasan?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/instagram-logo-8869.svg" alt="suraj_seenivasan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Github stats:</h3>
 <p align="left">
