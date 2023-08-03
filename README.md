@@ -12,10 +12,11 @@
 <p align="center">
     <h1 align="center">I'm Suraj Seenivasan</h1>
 </p>
-<h3 align="center">A passionate Software Quality Assurance Engineer from India</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3>
 <h3 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/online-education-7540.svg"width="30" height="30"/> Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Connect with me:</h3>
+<br>
+<h3 align="left"><img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/user-network-297.svg" width="30" height="30"/> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seenivasansuraj" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/twitter-x-logo-black-square-rounded-20852.svg" alt="seenivasansuraj" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/suraj-seenivasan-613212191" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/linkedin-logo-2430.svg" alt="suraj-seenivasan-613212191" height="30" width="40" /></a> &nbsp;
@@ -24,9 +25,11 @@
 <a href="https://join.skype.com/invite/VRImeN46Fs31" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/skype-blue-square-logo-16004.svg" alt="suraj_seenivasan" height="30" width="40" /></a> &nbsp;
 <a href="https://t.me/surajseenivasan" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/telegram-logo-5943.svg" alt="suraj_seenivasan" height="30" width="40" /></a> &nbsp;   
 </p>
-<h3 align="left">Github stats:</h3>
+<br>
+<h3 align="left"><img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/arrow-chart-673.svg"width="30" height="30"/> Github stats:</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&theme=gotham&include_all_commits=true&count_private=true" width="45%" style="display:inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham&include_all_commits=true&count_private=true" width="50%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>
+<br>
 <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/Software-Test-Management.gif">
