@@ -18,7 +18,7 @@
 <br>
 <h3 align="left"><img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/user-network-297.svg" width="30" height="30"/> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seenivasansuraj" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/twitter-x-logo-black-square-rounded-20852.svg" alt="seenivasansuraj" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/seenivasansuraj" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/x-twitter-logo-black-square-rounded-20852.svg" alt="seenivasansuraj" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/suraj-seenivasan-613212191" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/linkedin-logo-2430.svg" alt="suraj-seenivasan-613212191" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/surajseenivasan" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/facebook-logo-2428.svg" alt="surajseenivasan" height="30" width="40" /></a> &nbsp;
 <a href="https://www.instagram.com/suraj_seenivasan/" target="blank"><img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/Icon/instagram-logo-8869.svg" alt="suraj_seenivasan" height="30" width="40" /></a> &nbsp;
