@@ -39,6 +39,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&include_all_commits=true&theme=gotham&show_icons=true" width="45%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>-->
+## 🐍 A Snake Eating My Contributions Graph
+
 <p align="center">
-<img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/github-contribution-grid-snake.svg">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>
