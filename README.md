@@ -33,7 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Survensa&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Survensa&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Survensa&theme=gotham&utcOffset=8)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Survensa&theme=gotham&hide_border=true&mode=weekly" width="80%"/>
 </div>
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&include_all_commits=true&theme=gotham&show_icons=true" width="45%" style="display:inline"><br>
