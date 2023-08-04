@@ -39,7 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&include_all_commits=true&theme=gotham&show_icons=true" width="45%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>-->
-## 🐍 A Snake Eating My Contributions Graph
+<h2 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/476809.png" width="30" height="30"/> Is that Snake Eating My Contributions Graph . . . ?</h2>
 
 <p align="center">
 	<picture>
