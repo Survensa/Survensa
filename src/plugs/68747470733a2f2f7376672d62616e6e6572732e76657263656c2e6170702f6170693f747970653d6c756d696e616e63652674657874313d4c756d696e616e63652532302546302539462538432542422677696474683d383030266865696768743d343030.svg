@@ -15,11 +15,11 @@
                 background: #333641;
                 background-size: 600% 400%;
                 border-radius: 10px;
-                color: white;
+                color: transparent;
                 text-align: center;
                 }
               
-                .luminance {
+                .myname {
                 background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #fff, transparent, transparent);
                 -webkit-background-clip: text;
                 background-clip: text;
@@ -66,8 +66,8 @@
                 }
 			</style>
 			<div class="container">
-                <div class="luminance">
-                    Luminance 🌻
+                <div class="myname">
+                    I'm Suraj Seenivasan
                 </div>
             </div>
         </div>
