@@ -31,5 +31,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&include_all_commits=true&theme=gotham&show_icons=true" width="45%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>
-<br>
-<img align="center" src="https://github.com/Survensa/Survensa/blob/main/src/plugs/kMCMR25Vh.gif">
+<p align="center">
+<img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/github-contribution-grid-snake.svg">
+</p>
