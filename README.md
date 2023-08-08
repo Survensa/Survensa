@@ -1,17 +1,20 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
-<div align="center">
-  <picture>
-    <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/github.gif"height="225" width="250">
-  </picture>
-</div>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiiiiiiiii;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"><br>  
 </p>
 <p align="center">
     <h1 align="center">I'm Suraj Seenivasan</h1>
+    <h3 align="center">A passionate Software Quality Assurance Engineer from India <br> <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3><br>	
 </p>
-<h3 align="center">A passionate Software Quality Assurance Engineer from <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3><br>
+<h2 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/476809.png" width="30" height="30"/> Is that Snake Eating My Contributions Graph . . . ?</h2>
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 <h3 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/online-education-7540.svg"width="30" height="30"/> Languages and Tools:</h3><br>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
@@ -39,12 +42,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Survensa&include_all_commits=true&theme=gotham&show_icons=true" width="45%" style="display:inline"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survensa&theme=gotham&include_all_commits=true&count_private=true">
 </p>-->
-<h2 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/476809.png" width="30" height="30"/> Is that Snake Eating My Contributions Graph . . . ?</h2>
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Survensa/Survensa/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
