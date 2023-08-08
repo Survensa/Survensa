@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <h1 align="center">I'm Suraj Seenivasan</h1>
-    <h3 align="center">A passionate Software Quality Assurance Engineer from India <br><br><img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3>	
+    <h3 align="center">A passionate Software Quality Assurance Engineer from India<br><br><img src="https://github.com/Survensa/Survensa/blob/main/src/Icon/india-flag-circular-17791.svg"width="40" height="40"/> </h3>	
 </p>
 <h2 align="left"> <img src="https://github.com/Survensa/Survensa/blob/main/src/plugs/476809.png" width="30" height="30"/> Is that Snake Eating My Contributions Graph . . . 😜</h2>
 <p align="center">
